@@ -1,7 +1,7 @@
 # Everything about Issues: Bugs, Features and Contribution
 ***
 ***
-## Using the new GitHub Issue templates
+## Filing Issues using the new GitHub Issue templates
 
 ### 1. Go to the repository you are filing issue for
 
